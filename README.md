@@ -13,3 +13,8 @@ Este repositorio contiene el código Python para estimar el Tipo de Cambio Real 
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm catboost shap lime
 
 Coloca el dataset (nueva_base_con_rezagosfinal.xlsx) en la misma carpeta.
+## Además
+VECM con train-test split, pronósticos y métricas
+ ECM (Regresión Lineal) con Train-Test, Pronósticos y Métricas
+ ## Contenido
+- `baseVECMfinal.xlsx` (no incluido): Dataset usado para entrenamiento y prueba (contactar al autor para acceso).
