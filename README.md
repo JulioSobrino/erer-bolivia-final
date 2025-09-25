@@ -3,7 +3,7 @@
 Este repositorio contiene el código Python para estimar el Tipo de Cambio Real de Equilibrio (ERER) en Bolivia usando modelos de machine learning (Random Forest, XGBoost, LightGBM, CatBoost) con análisis de interpretabilidad mediante SHAP y LIME, como se describe en el artículo de investigación.
 
 ## Contenido
-- `annex6_code.py`: Script Python que implementa los modelos, evaluación de métricas y análisis de SHAP/LIME.
+- `ModeloFinaltipo25_09_25.ipynb`: Script Python que implementa los modelos, evaluación de métricas y análisis de SHAP/LIME.
 - `nueva_base_con_rezagosfinal.xlsx` (no incluido): Dataset usado para entrenamiento y prueba (contactar al autor para acceso).
 - `resultados_modelos.xlsx` (salida): Resultados con métricas, predicciones e interpretabilidad.
 
